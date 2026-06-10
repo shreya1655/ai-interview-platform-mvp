@@ -22,7 +22,7 @@ npm run dev
 Open: http://localhost:3000
 
 ## API Key
-Add your OpenAI API key in `.env.local`:
+Add your  Gemini API key in `.env.local`:
 
 ```bash
 OPENAI_API_KEY=your_key
